@@ -1,0 +1,52 @@
+{
+  "name": "Alex Vance",
+  "role": "Frontend & UI/UX Engineer",
+  "location": "Bengaluru, India",
+  "bio": "Specializing in high-performance React architectures, responsive design systems, and fluid micro-interactions.",
+  "statusBadge": "Available for full-time roles & contracts",
+  "socials": {
+    "github": "https://github.com",
+    "linkedin": "https://linkedin.com",
+    "twitter": "https://twitter.com",
+    "email": "mailto:alex@example.com"
+  },
+  "skills": [
+    "React", "TypeScript", "Tailwind CSS", "Framer Motion", "Node.js", "Figma", "Next.js", "REST APIs"
+  ],
+  "experience": [
+    {
+      "role": "Frontend Developer Intern",
+      "company": "TechNova Labs",
+      "period": "Jan 2025 – Present",
+      "highlights": [
+        "Architected responsive UI components across 20+ client portals.",
+        "Refactored state management to reduce client-side re-renders by 30%."
+      ]
+    },
+    {
+      "role": "Web Design Specialist",
+      "company": "Studio Pulse",
+      "period": "Jun 2024 – Dec 2024",
+      "highlights": [
+        "Converted 15+ high-fidelity Figma mockups into production-ready web apps.",
+        "Improved Core Web Vitals score from 72 to 96 across main landing pages."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "CloudMetrics SaaS Dashboard",
+      "description": "Real-time telemetry and API usage analytics dashboard with interactive charts and dark-mode tokens.",
+      "tech": ["React", "Tailwind CSS", "TypeScript"],
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com"
+    },
+    {
+      "title": "NourishFlow Mobile Prototype",
+      "description": "Smart meal planning and grocery delivery application featuring fluid gesture-based sheet navigation.",
+      "tech": ["Figma", "React", "Framer Motion"],
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com"
+    }
+  ]
+}
